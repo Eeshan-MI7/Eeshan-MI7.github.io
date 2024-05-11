@@ -4,6 +4,8 @@
 
 Welcome to my portfolio! I'm Eeshan Mishra, a passionate frontend developer, and this website serves as a showcase of my skills, projects, and aspirations in the field of web development. Here, you'll find everything you need to know about me and my work.
 
+![image](https://github.com/Eeshan-MI7/Eeshan-MI7.github.io/assets/91685371/8e8a051a-fa5d-4b75-bffe-b35327b440a2)
+
 ## Features
 
 - **Responsive Design**: I've crafted this website to be fully responsive, ensuring that it looks great and functions flawlessly across all devices, from desktops to mobile phones.
